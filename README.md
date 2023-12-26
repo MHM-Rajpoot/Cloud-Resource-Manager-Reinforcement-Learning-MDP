@@ -67,4 +67,4 @@ Contributions are welcome! If you have ideas for improvements, new features, or 
 
 **Cloud Resource Manager** is a project developed for educational and learning purposes.
 
-__Demo:__ [YouTube]([https://youtu.be/fG9s7N54JuY](https://youtu.be/742-4JC84uY)https://youtu.be/742-4JC84uY)
+__Demo:__ [YouTube](https://youtu.be/fG9s7N54JuY)
