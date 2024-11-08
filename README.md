@@ -1,6 +1,6 @@
 # Cloud Resource Manager - Reinforcement Learning
 
-Cloud Resource Manager is a system designed for managing cloud resources using a Reinforcement Learning approach based on Markov Decision Process (MDP).
+The Cloud Resource Manager employs a Reinforcement Learning approach, specifically utilizing Markov Decision Process (MDP), to optimize resource allocation. Alternatively, it can be viewed as a user behavioral resource management system, where historical usage patterns inform the assignment of weights to graph vertices, guiding the AI in determining the most effective actions to take.
 
 ## Overview
 
